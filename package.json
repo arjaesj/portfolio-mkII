@@ -2,7 +2,7 @@
     "name": "your-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://myusername.github.io/portfolio-v2.0",
+    "homepage": "https://arjaesj.github.io/portfolio-v2.0",
     "dependencies": {
         "mdbreact": "4.27.0",
         "react": "^16.12.0",

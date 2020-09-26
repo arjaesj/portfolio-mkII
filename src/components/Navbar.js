@@ -38,7 +38,7 @@ class NavbarPage extends Component {
                                     </MDBDropdownToggle>
                                     <MDBDropdownMenu className="dropdown-default" right>
                                         <MDBDropdownItem href="#!">Design . Web</MDBDropdownItem>
-                                        <MDBDropdownItem href="#!">Design . Residential</MDBDropdownItem>
+                                        <MDBDropdownItem href="#!">Residential Designs</MDBDropdownItem>
                                         <MDBDropdownItem href="#!">ArchViz</MDBDropdownItem>
                                         <MDBDropdownItem href="#!">Photography</MDBDropdownItem>
                                     </MDBDropdownMenu>

@@ -1,15 +1,16 @@
 import React, { Component } from "react";
-import { MDBContainer} from "mdbreact";
 import CarouselPage from "./components/Carousel"
 import NavbarPage from "./components/Navbar"
+import FooterPage from "./components/Footer"
 
 class App extends Component {
   render() {
     return (
-      <div>
+      <React.Fragment>
         <NavbarPage />
         <CarouselPage />
-      </div>
+        <FooterPage />
+      </React.Fragment>
     );
   }
 }

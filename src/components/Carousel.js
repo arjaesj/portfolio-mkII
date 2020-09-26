@@ -1,12 +1,13 @@
 import React from "react";
 import { MDBCarousel, MDBCarouselCaption, MDBCarouselInner, MDBCarouselItem, MDBView, MDBMask } from
 "mdbreact";
+// import WebDesignImg from "../../public/images/design-web.jpg"
 
 const CarouselPage = () => {
   return (
       <MDBCarousel
       activeItem={1}
-      length={3}
+      length={4}
       showControls={true}
       showIndicators={true}
       className="z-depth-1"
@@ -16,42 +17,56 @@ const CarouselPage = () => {
           <MDBView>
             <img
               className="d-block w-100"
-              src="https://mdbootstrap.com/img/Photos/Slides/img%20(68).jpg"
-              alt="First slide"
+              src={require("../images/design-web.jpg")}
+              alt="Design.Web slide"
             />
           <MDBMask overlay="black-light" />
           </MDBView>
           <MDBCarouselCaption>
-            <h3 className="h3-responsive">Light mask</h3>
-            <p>First text</p>
+            <h3 className="h3-responsive">&lt;Design . Web /&gt;</h3>
+            <p>UI/UX Web Design to Full stack Web Development</p>
           </MDBCarouselCaption>
         </MDBCarouselItem>
         <MDBCarouselItem itemId="2">
           <MDBView>
             <img
               className="d-block w-100"
-              src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg"
-              alt="Second slide"
+              src={require("../images/design-resi.jpg")}
+              alt="Residential Design slide"
             />
           <MDBMask overlay="black-strong" />
           </MDBView>
           <MDBCarouselCaption>
-            <h3 className="h3-responsive">Strong mask</h3>
-            <p>Second text</p>
+            <h3 className="h3-responsive">Residential Designs</h3>
+            <p>Display Home or Client Home Designs</p>
           </MDBCarouselCaption>
         </MDBCarouselItem>
         <MDBCarouselItem itemId="3">
           <MDBView>
             <img
               className="d-block w-100"
-              src="https://mdbootstrap.com/img/Photos/Slides/img%20(9).jpg"
-              alt="Third slide"
+              src={require("../images/archviz.jpg")}
+              alt="Archviz slide"
             />
           <MDBMask overlay="black-slight" />
           </MDBView>
           <MDBCarouselCaption>
-            <h3 className="h3-responsive">Slight Mast</h3>
-            <p>Third text</p>
+            <h3 className="h3-responsive">Archviz</h3>
+            <p>Architectural 3D Photorealistic renderings & flythroughs</p>
+          </MDBCarouselCaption>
+        </MDBCarouselItem>
+        <MDBCarouselItem itemId="4">
+          <MDBView>
+            <img
+              className="d-block w-100"
+              src={require("../images/photography.jpg")}
+              alt="Photography slide"
+            />
+          <MDBMask overlay="black-slight" />
+          </MDBView>
+          <MDBCarouselCaption>
+            <h3 className="h3-responsive">Photography</h3>
+            <p>Travel, Journalistic & Event Photography</p>
           </MDBCarouselCaption>
         </MDBCarouselItem>
       </MDBCarouselInner>
