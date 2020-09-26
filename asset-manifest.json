@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio-v2.0/static/css/main.b76ecebd.chunk.css",
-    "main.js": "/portfolio-v2.0/static/js/main.bd0688d7.chunk.js",
-    "main.js.map": "/portfolio-v2.0/static/js/main.bd0688d7.chunk.js.map",
+    "main.css": "/portfolio-v2.0/static/css/main.a768666d.chunk.css",
+    "main.js": "/portfolio-v2.0/static/js/main.289dfa37.chunk.js",
+    "main.js.map": "/portfolio-v2.0/static/js/main.289dfa37.chunk.js.map",
     "runtime-main.js": "/portfolio-v2.0/static/js/runtime-main.de2dc716.js",
     "runtime-main.js.map": "/portfolio-v2.0/static/js/runtime-main.de2dc716.js.map",
     "static/css/2.9c7832f0.chunk.css": "/portfolio-v2.0/static/css/2.9c7832f0.chunk.css",
-    "static/js/2.a538d7d7.chunk.js": "/portfolio-v2.0/static/js/2.a538d7d7.chunk.js",
-    "static/js/2.a538d7d7.chunk.js.map": "/portfolio-v2.0/static/js/2.a538d7d7.chunk.js.map",
+    "static/js/2.5a32f9ad.chunk.js": "/portfolio-v2.0/static/js/2.5a32f9ad.chunk.js",
+    "static/js/2.5a32f9ad.chunk.js.map": "/portfolio-v2.0/static/js/2.5a32f9ad.chunk.js.map",
     "index.html": "/portfolio-v2.0/index.html",
-    "precache-manifest.d4e40fe84684e1820e8d14a82135c34e.js": "/portfolio-v2.0/precache-manifest.d4e40fe84684e1820e8d14a82135c34e.js",
+    "precache-manifest.5410901f8f50fbd48de5ebd07933ef37.js": "/portfolio-v2.0/precache-manifest.5410901f8f50fbd48de5ebd07933ef37.js",
     "service-worker.js": "/portfolio-v2.0/service-worker.js",
     "static/css/2.9c7832f0.chunk.css.map": "/portfolio-v2.0/static/css/2.9c7832f0.chunk.css.map",
-    "static/css/main.b76ecebd.chunk.css.map": "/portfolio-v2.0/static/css/main.b76ecebd.chunk.css.map",
-    "static/js/2.a538d7d7.chunk.js.LICENSE.txt": "/portfolio-v2.0/static/js/2.a538d7d7.chunk.js.LICENSE.txt",
+    "static/css/main.a768666d.chunk.css.map": "/portfolio-v2.0/static/css/main.a768666d.chunk.css.map",
+    "static/js/2.5a32f9ad.chunk.js.LICENSE.txt": "/portfolio-v2.0/static/js/2.5a32f9ad.chunk.js.LICENSE.txt",
+    "static/media/archviz.jpg": "/portfolio-v2.0/static/media/archviz.ef23b4ab.jpg",
     "static/media/mdb.css": "/portfolio-v2.0/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/portfolio-v2.0/static/media/fa-solid-900.ee09ad75.woff"
+    "static/media/design-resi.jpg": "/portfolio-v2.0/static/media/design-resi.e856caeb.jpg",
+    "static/media/design-web.jpg": "/portfolio-v2.0/static/media/design-web.8689d7a1.jpg",
+    "static/media/all.min.css": "/portfolio-v2.0/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/photography.jpg": "/portfolio-v2.0/static/media/photography.6429a8f4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.de2dc716.js",
     "static/css/2.9c7832f0.chunk.css",
-    "static/js/2.a538d7d7.chunk.js",
-    "static/css/main.b76ecebd.chunk.css",
-    "static/js/main.bd0688d7.chunk.js"
+    "static/js/2.5a32f9ad.chunk.js",
+    "static/css/main.a768666d.chunk.css",
+    "static/js/main.289dfa37.chunk.js"
   ]
 }
