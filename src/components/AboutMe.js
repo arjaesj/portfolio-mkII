@@ -24,6 +24,8 @@ class AboutMePage extends React.Component {
                             <div className='black-text text-center text-md-left col-md-6 mt-xl-5 mb-5'>
                                 <h1 className='display-4 font-weight-bold'>About Me </h1>
                                 <hr className='hr-dark' />
+                                <h5 className='mb-4'>Hi I'm Rommel Jay San Jose</h5>
+                                <h6 className='mb-4'>but I prefer to be called Rj</h6>
                                 <h6 className='mb-4'>
                                     I was born and raised in the Philippines and migrated here in Perth, WA twelve years ago.
                                     I have a Bachelor's degree in Architecture but not a licensed Architect.
