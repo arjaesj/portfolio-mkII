@@ -1,6 +1,7 @@
 import React, { Component } from "react";
-import CarouselPage from "./components/Carousel"
 import NavbarPage from "./components/Navbar"
+import CarouselPage from "./components/Carousel"
+import AboutMePage from "./components/AboutMe"
 import FooterPage from "./components/Footer"
 
 class App extends Component {
@@ -9,6 +10,7 @@ class App extends Component {
       <React.Fragment>
         <NavbarPage />
         <CarouselPage />
+        <AboutMePage />
         <FooterPage />
       </React.Fragment>
     );
