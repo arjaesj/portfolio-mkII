@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c2a97168f417278f1ad8fb1b1939fac",
+    "revision": "441b503edbbb86542be62050435ce151",
     "url": "/portfolio-v2.0/index.html"
   },
   {
-    "revision": "e259e70d2022e73253ff",
+    "revision": "e315a8f05c02dc322a63",
     "url": "/portfolio-v2.0/static/css/2.9c7832f0.chunk.css"
   },
   {
-    "revision": "5ffbde848374587ca4f8",
+    "revision": "ae16a4b585b4bcfa1d49",
     "url": "/portfolio-v2.0/static/css/main.a768666d.chunk.css"
   },
   {
-    "revision": "e259e70d2022e73253ff",
-    "url": "/portfolio-v2.0/static/js/2.5a32f9ad.chunk.js"
+    "revision": "e315a8f05c02dc322a63",
+    "url": "/portfolio-v2.0/static/js/2.00822ac1.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/portfolio-v2.0/static/js/2.5a32f9ad.chunk.js.LICENSE.txt"
+    "url": "/portfolio-v2.0/static/js/2.00822ac1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ffbde848374587ca4f8",
-    "url": "/portfolio-v2.0/static/js/main.289dfa37.chunk.js"
+    "revision": "ae16a4b585b4bcfa1d49",
+    "url": "/portfolio-v2.0/static/js/main.5907fc0f.chunk.js"
   },
   {
     "revision": "1d4198a9216c3403ef4e",
@@ -108,7 +108,55 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-v2.0/static/media/fa-solid-900.ee09ad75.woff"
   },
   {
+    "revision": "4b11db39f22eba73eaf68d7cd12c109c",
+    "url": "/portfolio-v2.0/static/media/logo-AC.4b11db39.png"
+  },
+  {
+    "revision": "a00831a712bb4f59eba35cb2c4c7a737",
+    "url": "/portfolio-v2.0/static/media/logo-JS.a00831a7.png"
+  },
+  {
+    "revision": "b3aacfbd0e83805a7759c9aaaba74833",
+    "url": "/portfolio-v2.0/static/media/logo-PS.b3aacfbd.png"
+  },
+  {
+    "revision": "599a1939de3fb8842f97e0419c5c61f0",
+    "url": "/portfolio-v2.0/static/media/logo-React.599a1939.png"
+  },
+  {
+    "revision": "100cb99c82f5272e56733687a920de57",
+    "url": "/portfolio-v2.0/static/media/logo-XD.100cb99c.png"
+  },
+  {
+    "revision": "615139109b0ed0c744fbd60084f82ebc",
+    "url": "/portfolio-v2.0/static/media/logo-html.61513910.png"
+  },
+  {
+    "revision": "68c91a46ad3dce4b3ebd17d070f931cf",
+    "url": "/portfolio-v2.0/static/media/logo-jquery.68c91a46.png"
+  },
+  {
+    "revision": "a2366683b2284bd0c5c83ed5170dfb17",
+    "url": "/portfolio-v2.0/static/media/logo-mongo.a2366683.png"
+  },
+  {
+    "revision": "6edd78fce2b2eb6d019f2046dfed2f4d",
+    "url": "/portfolio-v2.0/static/media/logo-mysql.6edd78fc.png"
+  },
+  {
+    "revision": "cb29e495a72302f97c87c052c98c8eab",
+    "url": "/portfolio-v2.0/static/media/logo-nikon.cb29e495.png"
+  },
+  {
+    "revision": "cb1d08f4ec679b7b13d9e7fce1e77eeb",
+    "url": "/portfolio-v2.0/static/media/logo-node.cb1d08f4.png"
+  },
+  {
     "revision": "6429a8f4aea3e6a08ec94af00a99db66",
     "url": "/portfolio-v2.0/static/media/photography.6429a8f4.jpg"
+  },
+  {
+    "revision": "a2d3f48e30e9f01c4ca5970aa5d9bb79",
+    "url": "/portfolio-v2.0/static/media/prof-pic.a2d3f48e.jpg"
   }
 ]);
