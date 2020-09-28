@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import {
-    MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBNavLink, MDBNavbarToggler, MDBCollapse, MDBDropdown,
+    MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBNavbarToggler, MDBCollapse, MDBDropdown,
     MDBDropdownToggle, MDBDropdownMenu, MDBDropdownItem, MDBIcon
 } from "mdbreact";
 import { BrowserRouter as Router } from 'react-router-dom';
@@ -27,14 +27,10 @@ class NavbarPage extends Component {
                     <MDBCollapse id="navbarCollapse3" isOpen={this.state.collapseID} navbar>
                         <MDBNavbarNav right>
                             <MDBNavItem>
-                                <MDBNavLink className="waves-effect waves-light" to="#!">
-                                    <Scrollchor to="#about-me" className="nav-link"><MDBIcon icon="user" className="mr-1" />About</Scrollchor>
-                                </MDBNavLink>
+                                <Scrollchor to="#about-me" className="nav-link waves-effect waves-light"><MDBIcon icon="user" className="mr-1" />About</Scrollchor>
                             </MDBNavItem>
                             <MDBNavItem>
-                                <MDBNavLink className="waves-effect waves-light" to="#!">
-                                    <Scrollchor to="#about-me" className="nav-link"><MDBIcon icon="envelope" className="mr-1" />Contact</Scrollchor>
-                                </MDBNavLink>
+                                <Scrollchor to="#contact-me" className="nav-link"><MDBIcon icon="envelope" className="mr-1" />Contact</Scrollchor>
                             </MDBNavItem>
                             <MDBNavItem>
                                 <MDBDropdown>
@@ -42,7 +38,7 @@ class NavbarPage extends Component {
                                         <MDBIcon icon="folder-open" className="mr-c1" />Portfolio
                                     </MDBDropdownToggle>
                                     <MDBDropdownMenu className="dropdown-default" right>
-                                        <MDBDropdownItem href="#!">Design . Web</MDBDropdownItem>
+                                        <MDBDropdownItem href="#design-web">Design . Web</MDBDropdownItem>
                                         <MDBDropdownItem href="#!">Residential Designs</MDBDropdownItem>
                                         <MDBDropdownItem href="#!">ArchViz</MDBDropdownItem>
                                         <MDBDropdownItem href="#!">Photography</MDBDropdownItem>

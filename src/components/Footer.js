@@ -57,15 +57,15 @@ const FooterPage = () => {
         <MDBRow>
           <MDBCol md="12" className="py-5">
             <div className="mb-5 flex-center">
-              <a className="fb-ic" href="https://www.facebook.com/arjae.sanjose/" target="_blank">
+              <a className="fb-ic" href="https://www.facebook.com/arjae.sanjose/" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x">
                 </i>
               </a>
-              <a className="li-ic" href="https://www.linkedin.com/in/rommel-jay-san-jose-7b47829" target="_blank">
+              <a className="li-ic" href="https://www.linkedin.com/in/rommel-jay-san-jose-7b47829" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-linkedin-in fa-lg white-text mr-md-5 mr-3 fa-2x">
                 </i>
               </a>
-              <a className="gh-ic" href="https://github.com/arjaesj" target="_blank">
+              <a className="gh-ic" href="https://github.com/arjaesj" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-github fa-lg white-text mr-md-5 mr-3 fa-2x">
                 </i>
               </a>
