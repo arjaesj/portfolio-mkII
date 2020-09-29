@@ -14,7 +14,7 @@ My personal single page web based portfolio made with React & MDBootsrap showcas
 
 ### Deployed
 
-Deployed URL: https://https://arjaesj.github.io/portfolio-v2.0/
+Deployed URL: https://arjaesj.github.io/portfolio-v2.0/
 
 **Here's a demo of the app**  
 ![app Demo](https://github.com/arjaesj/portfolio-v2.0/blob/master/src/images/demo.gif?raw=true)
