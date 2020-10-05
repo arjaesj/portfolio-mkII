@@ -275,6 +275,40 @@ const WEbDesignPage = () => {
             </MDBBtn>
           </MDBCardBody>
         </MDBCol>
+
+        <MDBCol lg="4" md="12" className="mb-lg-0 mb-4">
+          <img
+            src="https://github.com/arjaesj/google-books-search/blob/main/images/demo.gif?raw=true"
+            alt="App Demo GIF"
+            className="img-fluid overlay rounded z-depth-1"
+            style={{ height: 250, width: "100%" }}
+          />
+          <MDBCardBody className="pb-0">
+            <h4 className="font-weight-bold my-3">Google Books Search</h4>
+            <p className="grey-text">
+              A React-based Google Books Search app using Node, Express and
+              MongoDB so that users can save books to review or purchase later.
+            </p>
+            <MDBBtn
+              color="black"
+              size="md"
+              href="https://github.com/arjaesj/google-books-search"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <MDBIcon fab icon="github-square" className="left" /> Github Repo
+            </MDBBtn>
+            <MDBBtn
+              color="black"
+              size="md"
+              href="https://find-my-book.herokuapp.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <MDBIcon icon="desktop" className="left" /> Deployed App
+            </MDBBtn>
+          </MDBCardBody>
+        </MDBCol>
       </MDBRow>
     </section>
   );
